@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi ! My name is Piotr Nogalski<br>🎓 Cybersecurity Student at Wroclaw University of Science and Technology<br>👨🏻‍💻 Working with Python, Bash, C++<br>📝 Plan to learn Docker , SQL
+👋 Hi ! My name is Piotr Nogalski<br>🎓 Cybersecurity Student at Wroclaw University of Science and Technology<br>👨🏻‍💻 Working with Python, Bash, C++<br>📝 Plan to learn Docker and Kubernetes
 
 
 ## 🌐 Socials:
